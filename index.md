@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
+
+Hi! 
+This is a work in progress... 
+Come back in a few days to check out some of the stuff I working.
+I am currently studying Csharp to make games.
 
 You can use the [editor on GitHub](https://github.com/akaninja/akaninja.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
