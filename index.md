@@ -3,40 +3,12 @@
 Hi! 
 This is a work in progress... 
 Come back in a few days to check out some of the stuff I working.
-I am currently studying Csharp to make games.
 
-You can use the [editor on GitHub](https://github.com/akaninja/akaninja.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
+I am a biologist with a Masters degree in Physiology, in which I developed a little Flash program to teach neuroscience concepts to young adults. I have to admit I had more fun programming and creating content for the software then doing my actual research. At the time, video game developing was not popular and there were no courses for game developers. After a few years working with educational science books I decided to try to change my career and started studying to become a game developer. Hopefully my knowledge of science and education will be helpful in this journey. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is the first game I made, in 2006, in Flash, which was very popular at the time by the way: [Bubble game](https://www.newgrounds.com/portal/view/348846).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akaninja/akaninja.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What am I studying
+I have been taking courses on CSharp and Unity. In the future I plan on learning C++ (probrably). :)
