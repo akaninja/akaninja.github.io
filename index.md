@@ -11,4 +11,5 @@ Here is the first game I made, in 2006 in Macromedia Flash, which was very popul
 
 
 ## What am I studying
-I've been taking courses on CSharp and Unity. In the future I plan on learning C++ and Unreal (probrably).
+I've been taking classes on CSharp and Unity. In the future I plan on learning C++ and Unreal (probrably).
+Also I've been studying Game Design, Screenplay, 3D modelling and some other stuff, but my focus is on programming. Game design is the second mais area of interest. 
