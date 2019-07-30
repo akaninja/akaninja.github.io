@@ -10,6 +10,6 @@ I am a biologist with a Masters degree in Physiology, in which I developed a lit
 Here is the first game I made, in 2006 in Macromedia Flash, which was very popular at the time by the way: [Bubble game](https://www.newgrounds.com/portal/view/348846).
 
 
-## What am I studying
+## What I'm studying
 I've been taking classes on CSharp and Unity. In the future I plan on learning C++ and Unreal (probrably).
 Also I've been studying Game Design, Screenplay, 3D modelling and some other stuff, but my focus is on programming. Game design is the second mais area of interest. 
