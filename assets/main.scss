@@ -1,0 +1,151 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 25px;
+}
+
+h4 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+}
+
+ul {
+  font-family: 'Cormorant Garamond', serif;
+  list-style: square inside;
+  font-size: 20px;
+}
+
+.bio {
+  width: 30rem;
+}
+
+.manage {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.title-anton {
+  font-family: 'Anton', sans-serif;
+  font-size: 35px;
+}
+
+.text-grey {
+  color: grey;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 14px;
+}
+
+.form-group {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+}
+
+.middle-box {
+  margin: auto;
+  width: 50rem;
+}
+
+.footer-box{
+  text-align: center;
+  margin: auto;
+  width: 50rem;
+}
+
+.text-right {
+  text-align: right;
+  padding-left: auto;
+}
+
+.site-nav p {
+  text-decoration: underline 1px;
+}
+
+.nav-link a {
+  color: #5351b0;
+}
+
+.nav-link a:hover {
+  color: #5351b0;
+}
+
+.link-footer a {
+  font-size: 16px;
+  font-family: 'Cormorant Garamond', serif;
+  color: #5351b0;
+}
+
+.link-footer a:hover {
+  font-size: 16px;
+  font-family: 'Cormorant Garamond', serif;
+  color: #5351b0;
+  text-decoration: underline;
+}
+
+.more-articles {
+  list-style-type: circle;
+  margin-left: 1rem;
+}
+
+.badge {
+  background-color: #71a8f5;
+  color: #FFFFFF;
+  font-style: Bold;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: .3rem
+}
+
+pre code {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: 'Cormorant Garamond', serif;
+  margin: 1rem 1rem;
+}
+
+table td {
+  padding: 15px;
+}
+
+table thead td {
+  background-color: #54585d;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 13px;
+  border: 1px solid #54585d;
+}
+
+table tbody td {
+  color: #636363;
+  border: 1px solid #dddfe1;
+}
+
+table tbody tr {
+  background-color: #f9fafb;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
