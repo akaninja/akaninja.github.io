@@ -13,8 +13,10 @@ doing my actual research. After a few years working with science books editing,
 I decided to pursue a career in programming. I am currently working as a Web
 Developer and creating educational content at [Campus Code](https://campuscode.com.br/).
 
-Here is the first game I made, in 2006 in Macromedia Flash just for fun: [Bubble game](https://www.newgrounds.com/portal/view/348846).
+You can take a look at my Masters dissertation [here](https://teses.usp.br/teses/disponiveis/41/41135/tde-18022009-132437/pt-br.php).
 
 ## Photography
 
- You can see some of my photography work in my <a href="https://www.flickr.com/people/andrekanamura/">Flickr <i class="fab fa-flickr"></i></a>
+You can see some of my photography work in my <a href="https://www.flickr.com/people/andrekanamura/">Flickr <i class="fab fa-flickr"></i></a>.
+
+And here is my [Instagram](https://www.instagram.com/akanamura/).
