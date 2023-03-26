@@ -5,7 +5,7 @@ date: 2023-03-26
 abstract: "Ruby is a programming language known for being easy to learn and to love. And Ruby's syntactic sugar is one of the reasons for that."
 categories: ruby
 ---
-> Você poder ler uma versão deste artigo em português [aqui](https://www.campuscode.com.br/conteudos/como-funciona-o-syntactic-sugar-em-ruby).
+> Você pode ler uma versão deste artigo em português [aqui](https://www.campuscode.com.br/conteudos/como-funciona-o-syntactic-sugar-em-ruby).
 
 Ruby is a programming language that allows us to write readable and concise
 code. One of the reasons for that is this set of characteristics commonly
@@ -181,5 +181,4 @@ To know more about how Ruby works you can read Pat Shaughnessy's book
 **References:**
 
 - [Ruby Magic Syntactic Sugar Methods](https://blog.appsignal.com/2018/02/20/ruby-magic-syntactic-sugar-methods.html)
-- [Ruby Syntactic Sugar](https://rubylearning.com/satishtalim/ruby_syntactic_sugar.html)
 - [Official Ruby Doc](https://ruby-doc.org/)
